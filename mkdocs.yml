@@ -3,6 +3,7 @@ site_name: WIKI
 site_url: https://wiki.amcsui.ir
 theme:
   name: material
+  language: fa
   palette: 
     - media: "(prefers-color-scheme)"
 
