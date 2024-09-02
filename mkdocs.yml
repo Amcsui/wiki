@@ -1,1 +1,4 @@
-site_name: My Docs
+site_name: WIKI
+site_url: https://wiki.amcsui.ir
+theme:
+  name: material
