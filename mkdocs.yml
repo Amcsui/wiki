@@ -6,26 +6,29 @@ theme:
   language: fa
   palette: 
     - media: "(prefers-color-scheme)"
-
       toggle:
-        icon: material/brightness-auto
+        icon: material/lightbulb-auto
         name: Switch to light mode
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default 
-      primary: deep purple
+      primary: custom
       accent: deep purple
-
       toggle:
-        icon: material/brightness-7
+        icon: material/lightbulb
         name: Switch to dark mode
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: deep purple
+      primary: custom
       accent: deep purple
       toggle:
-        icon: material/brightness-4
+        icon: material/lightbulb-outline
         name: Switch to system preference
+  favicon: assets/favicon.ico
+  logo: assets/logo.png
+
+extra_css:
+  - stylesheets/extra.css
