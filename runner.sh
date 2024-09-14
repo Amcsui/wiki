@@ -1,3 +1,4 @@
 #! /bin/bash
 pip install -r req.pip
-mkdocs build
+pip install mkdocs-material
+python -m mkdocs build
