@@ -1,3 +1,3 @@
 #! /bin/bash
 pip install -r req.pip
-mkdocs build
+python -m mkdocs build
