@@ -3,7 +3,6 @@ site_name: WIKI
 site_url: https://wiki.amcsui.ir
 plugins:
   - section-index
-  - social
 theme:
   name: material
   language: fa
