@@ -1,4 +1,4 @@
-![image]()
+![image](statics/Book-Club-Poster.jpg)
 
 
 ## سلسله جلسات کتاب‌خوانی در «بوک کلاب ریکا»
