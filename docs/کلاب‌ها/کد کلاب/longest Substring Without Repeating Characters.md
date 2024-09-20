@@ -9,7 +9,7 @@
 ‌
 
 
-## صورت سوال:
+## صورت سوال
 
 
 **لینک سوال**: [longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
@@ -83,7 +83,7 @@
 ‌
 
 
-## منابع حل سوال:
+## منابع حل سوال
 
 
 ---
@@ -95,7 +95,7 @@
 ‌
 
 
-## پاسخ سوال:
+## پاسخ سوال
 
 
 ---
