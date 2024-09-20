@@ -1,5 +1,5 @@
   
-# longest Substring Without Repeating Characters
+# Longest Substring Without Repeating Characters
 
 
 
@@ -12,7 +12,7 @@
 ## صورت سوال
 
 
-**لینک سوال**: [longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+**لینک سوال**: [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 
 ---
@@ -176,10 +176,10 @@ class Solution:
 فرض کنید رشته‌ی ما
 
 
-a  b  c  d  e   f  c  h   i
+```a  b  c  d  e   f  c  h   i```
 
 
-0  1  2  3  4  5  6  7  8
+```0  1  2  3  4  5  6  7  8```
 
 
 دقت کنید که در هرمرحله هدف ما یافتن طولانی ترین زیررشته‌ای است که اولین کاراکتر آن در خانه `left` است.
