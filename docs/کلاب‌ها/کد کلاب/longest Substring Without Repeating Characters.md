@@ -89,7 +89,7 @@
 ---
 
 
-[What is Sliding Window Algorithm? Examples?](https://stackoverflow.com/questions/8269916/what-is-sliding-window-algorithm-examples)
+[What is Sliding Window Algorithm? Examples](https://stackoverflow.com/questions/8269916/what-is-sliding-window-algorithm-examples)
 
 
 ‌
