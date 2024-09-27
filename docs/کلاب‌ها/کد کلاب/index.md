@@ -1,4 +1,4 @@
-![image](Poster-Code-Club.jpg)
+![Code Club](Poster-Code-Club.jpg)
 
 
 ## سلسله جلسات کدنویسی در «کد کلاب ریکا»
