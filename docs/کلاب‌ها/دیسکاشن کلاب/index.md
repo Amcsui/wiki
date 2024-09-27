@@ -1,4 +1,4 @@
-![image](statics/Discussion-Club.jpg)
+![Discussion Club](statics/Discussion-Club.jpg)
 
 
 ## سلسله بحث آزاد انگلیسی در «دیسکاشن کلاب ریکا»
