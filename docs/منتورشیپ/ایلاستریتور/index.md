@@ -1,4 +1,4 @@
-![image](statics/Mentorship-Illustrator.jpg)
+![Illustrator](statics/Mentorship-Illustrator.jpg)
 
 
 # منتورشیپ | illustrator
