@@ -130,7 +130,7 @@
 ‌
 
 
-!‌[image]()
+!‌[image](statics/autumn-1.jpg)
   
   
 ## پذیرش دانشکده
