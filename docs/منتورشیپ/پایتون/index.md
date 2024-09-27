@@ -1,4 +1,4 @@
-![image](statics/Python-Mentorship.jpg)
+![Python](statics/Python-Mentorship.jpg)
 
 
 به منتورشیپ پایتون خوش اومدید
