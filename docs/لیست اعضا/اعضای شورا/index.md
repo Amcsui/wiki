@@ -7,59 +7,30 @@
 
 ## اعضای شورا
 
+- [ امین مسعودی (دبیر)](https://t.me/amin_masoudi_123)
+  ایمیل: [`aminmasoudi2003@gmail.com`](mailto:aminmasoudi2003@gmail.com)
 
-- امین مسعودی (دبیر)
-
-
-📱 `@amin_masoudi_123`
-
-- فرزانه سلیمی (نائب دبیر)
+- [فرزانه سلیمی (نائب دبیر)](https://t.me/Farxami)
+  ایمیل: [`farzaneh.s2003@gmail.com`](mailto:farzaneh.s2003@gmail.com)
   
-  
-📱 `@Farxami`
+- [حسنا سلطان الکتابی](https://t.me/hosna_sltn`)
+  ایمیل: [`hosnasoltan@gmail.com`](mailto:hosnasoltan@gmail.com)
 
-- حسنا سلطان الکتابی
-  
-  
-📱 `@hosna_sltn`
+- [محمد ملایی](https://t.me/Mohammad_Ma26)
+  ایمیل: [`mohammad.mallaee@gmail.com`](mailto:mohamamd.mallaee@gmail.com)
 
+- [داوود نصرتی](https://t.me/davwvod)
+  ایمیل: [`davwvod@gmail.com`](mailto:davwvod@gmail.com)
 
-- محمد ملایی
-  
-  
-📱 `@Mohammad_Ma26`
+- [ بهار غلامی](https://t.me/bahargholami2003)
+  ایمیل: [`Fatemehgholami20035@gmail.com`](mailto:Fatemehgholami20035@gmail.com)
 
-
-- داوود نصرتی
-  
-  
-📱 `@davwvod`
-
-
-- بهار غلامی
-  
-  
-📱 `@bahargholami2003`
-
-
-- صفورا خسروی
-  
-  
-📱 `@safoura_khosravi`
-
+- [صفورا خسروی](https://t.me/safoura_khosravi)
+  ایمیل: [`Sa.khosravifarsani@gmail.com`](mailto:Sa.khosravifarsani@gmail.com)
 
 ## اعضای علـی‌البدل
 
+- [یگانه رستگاری](https://t.me/Ysoeazy)
+  ایمیل: [`Yeganeh.ra.2003@gmail.com`](mailto:Yeganeh.ra.2003@gmail.com)
 
-- یگانه رستگاری
-  
-  
-📱 `@Ysoeazy`
-
-- امین عبدالله‌پور
-  
-  
-📱 `@Aminabdolahpour`
-
-
-
+- [امین عبدالله‌پور](https://t.me/Aminabdolahpour)
