@@ -121,7 +121,7 @@
 ☎️ `03137934714`
 
 
-!‌[Winter](statics/Winter-1.jpg)
+![Winter](statics/Winter-1.jpg)
   
   
 ## پذیرش دانشکده
