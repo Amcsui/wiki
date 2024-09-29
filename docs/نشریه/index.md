@@ -31,45 +31,67 @@
 ![ra'd Council](rad-members-2.jpg)
 
 
-- [**فرزانه سلیمی**](https://t.me/Farxami)
+👤 [**فرزانه سلیمی**](https://t.me/Farxami)
   
   
   مدیر مسئول | ۴۰۱ علوم‌کامپیوتر
-  
-- [**صفورا خسروی**](https://t.me/safoura_khosravi)
+
+
+📧 [`farzaneh.s2003@gmail.com`](mailto:farzaneh.s2003@gmail.com)
+
+
+👤 [**صفورا خسروی**](https://t.me/safoura_khosravi)
   
   
   سردبیر | ۴۰۲ علوم‌کامپیوتر
+
+
+📧 [`Sa.khosravifarsani@gmail.com`](mailto:Sa.khosravifarsani@gmail.com)
   
   
-- [**ریحانه باقری**](https://t.me/Reyhane_Bagheri)
+👤 [**ریحانه باقری**](https://t.me/Reyhane_Bagheri)
   
   
   دبیر سرویس علمی | ۴۰۱ علوم کامپیوتر
+
+
+📧 [`lreyhaneh.bagheril@gmail.com`](mailto:lreyhaneh.bagheril@gmail.com)
   
   
-- [**حسنا سلطان الکتابی**](https://t.me/hosna_sltn)
+👤 [**حسنا سلطان الکتابی**](https://t.me/hosna_sltn)
   
   
   دبیر سرویس صنفی-فرهنگی | ۴۰۱ علوم کامپیوتر
-  
-  
-- [**مریم رضائی**](https://t.me/msmrexe)
+
+
+📧 [`hosnasoltan@gmail.com`](mailto:hosnasoltan@gmail.com)
+ 
+    
+👤 [**مریم رضائی**](https://t.me/msmrexe)
   
   
   دبیر سرویس انجمن و آزاد | ارشد ۴۰۱ علوم‌کامپیوتر
-  
-  
-- [**امیر حسین کامرانی نژاد**](https://t.me/kami_j0n)
+
+
+📧 [`ms.maryamrezaee@gmail.com`](mailto:ms.maryamrezaee@gmail.com)
+
+    
+👤 [**امیر حسین کامرانی نژاد**](https://t.me/kami_j0n)
   
   
   دبیر سرویس هنری | ۴۰۲ علوم کامپیوتر
+
+
+📧 [`amir.h.k.n1384@gmail.com`](mailto:amir.h.k.n1384@gmail.com)
   
   
-- [**سجاد شوشتری**](https://t.me/Drssh)
+👤 [**سجاد شوشتری‌زاده**](https://t.me/Drssh)
   
   
   دبیر سرویس فنی | ۴۰۲ فیزیک
+
+
+📧 [`dr.ssh2003@gmail.com`](mailto:dr.ssh2003@gmail.com)
 
 
 ## ارتباط با ما
