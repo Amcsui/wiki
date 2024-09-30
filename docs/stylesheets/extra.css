@@ -1,7 +1,14 @@
 :root {
+    --md-text-font: 'IranYekan';
     --md-primary-fg-color:        #4A009E;
   }
 
 .md-typeset a{
   color: #038fb6;
+}
+
+@font-face {
+  font-family: 'IranYekan';
+  src: url(../assets/fonts/Qs_Iranyekan\ light.ttf) format('truetype');
+
 }
