@@ -25,10 +25,10 @@
 ## شورای رعد
 
 
-![ra'd Council](rad-members-1.jpg)
+![ra'd Council](rad-member-1.jpg)
 
 
-![ra'd Council](rad-members-2.jpg)
+![ra'd Council](rad-member-2.jpg)
 
 
 👤 [**فرزانه سلیمی**](https://t.me/Farxami)
