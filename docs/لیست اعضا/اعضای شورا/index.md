@@ -30,7 +30,7 @@
 
   ایمیل: [`mohammad.mallaee@gmail.com`](mailto:mohamamd.mallaee@gmail.com)
 
-- [داوود نصرتی](https://t.me/davwvod)
+- [داوود نصرتی](https://t.me/ausdavoud)
 
   ایمیل: [`davwvod@gmail.com`](mailto:davwvod@gmail.com)
 
