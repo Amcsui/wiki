@@ -1,7 +1,64 @@
 :root {
-    --md-primary-fg-color:        #4A009E;
-  }
+  --md-text-font: "IranYekan";
+  --md-primary-fg-color: #4a009e;
+  --light-nav-link: #9700c9;
+  --dark-nav-link: #c759ff;
+}
 
-.md-typeset a{
+
+.md-typeset a {
   color: #038fb6;
+}
+
+body[data-md-color-media="(prefers-color-scheme: light)"] {
+  .md-nav__link.md-nav__link--active {
+    color: var(--light-nav-link);
+  }
+}
+
+body[data-md-color-media="(prefers-color-scheme: dark)"] {
+  .md-nav__link.md-nav__link--active {
+    color: var(--dark-nav-link)
+  }
+}
+
+body[data-md-color-media="(prefers-color-scheme: light)"] {
+  .md-nav__link.md-nav__link--active {
+    color: var(--light-nav-link);
+  }
+}
+
+body[data-md-color-media="(prefers-color-scheme: dark)"] {
+  .md-nav__link.md-nav__link--active {
+    color: var(--dark-nav-link);
+  }
+}
+
+body[data-md-color-media="(prefers-color-scheme)"] {
+  @media (prefers-color-scheme: dark) {
+    .md-nav__link.md-nav__link--active {
+      color: var(--light-nav-link);
+    }
+  }
+  @media (prefers-color-scheme: dark) {
+    .md-nav__link.md-nav__link--active {
+      color: var(--dark-nav-link);
+    }
+  }
+}
+
+
+@font-face {
+  font-family: "IranYekan";
+  src: url("../assets/fonts/Qs_Iranyekan\ light.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "IranYekan";
+  src: url("../assets/fonts/Qs_Iranyekan\ bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
 }
