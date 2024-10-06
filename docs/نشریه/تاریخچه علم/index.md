@@ -34,10 +34,10 @@
 [نشریه رعد](/نشریه)
 
 
-[کانال تلگرام](https://t.me/Rad_Journal)
+[کانال تلگرام](https://t.me/RaadJournal)
 
 
-[صفحه اینستاگرام](https://www.instagram.com/rad_journal)
+[صفحه اینستاگرام](https://www.instagram.com/raadjournal)
 
 
-[اطلاعات بیشتر (زیلینک نشریه)](https://zil.ink/radjournal)
+[اطلاعات بیشتر (زیلینک نشریه)](https://zil.ink/raadjournal)
