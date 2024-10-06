@@ -4,6 +4,7 @@ site_url: https://wiki.amcsui.ir
 plugins:
   - section-index
   - search
+  - optimize
 theme:
   name: material
   language: fa
