@@ -29,9 +29,9 @@
   
 
 ☎️ `03137934623`
-  
-  
-🌐 a.amini@sci.ui.ac.ir
+
+
+🌐 [a.amini@sci.ui.ac.ir](mailto:a.amini@sci.ui.ac.ir)
   
   
 - مدیر گروه ریاضی محض: دکتر مریم خاتمی
@@ -40,7 +40,7 @@
 ☎️ `03137934611`
 
 
-🌐 m.khatami@sci.ui.ac.ir
+🌐 [m.khatami@sci.ui.ac.ir](mailto:m.khatami@sci.ui.ac.ir)
   
   
 - مدیر گروه ریاضی کاربردی و علوم‌کامپیوتر: دکتر محسن علمبردار
@@ -49,10 +49,10 @@
 ☎️ `03137934638`
   
   
-🌐 m.alambardar@sci.ui.ac.ir
+🌐 [m.alambardar@sci.ui.ac.ir](mailto:m.alambardar@sci.ui.ac.ir)
 
 
-🌐 alam3814@gmail.com
+🌐 [alam3814@gmail.com](mailto:alam3814@gmail.com)
   
   
 - مدیر گروه آمار: دکتر احسان زمان‌زاده 
@@ -61,10 +61,10 @@
 ☎️ `03137934573`
   
   
-🌐 e.zamanzade@sci.ui.ac.ir
+🌐 [e.zamanzade@sci.ui.ac.ir](mailto:e.zamanzade@sci.ui.ac.ir)
 
 
-🌐 ehsanzamanzadeh@yahoo.com
+🌐 [ehsanzamanzadeh@yahoo.com](mailto:ehsanzamanzadeh@yahoo.com)
   
   
 - معاونت آموزشی و دانشجویی دانشکده: دکتر حمید بیدرام
@@ -73,13 +73,13 @@
 ☎️ `03137934578`
 
 
-🌐 h.bidram@sci.ui.ac.ir
+🌐 [h.bidram@sci.ui.ac.ir](mailto:h.bidram@sci.ui.ac.ir)
 
 
 - معاونت فرهنگی دانشکده: دکتر محمد محمدی
   
   
-🌐 m.mohammadi@sci.ui.ac.ir
+🌐 [m.mohammadi@sci.ui.ac.ir](mailto:m.mohammadi@sci.ui.ac.ir)
 
 
 - معاونت پژوهشی و تحصیلات تکمیلی دانشکده: دکتر علیرضا نصر اصفهانی
@@ -88,7 +88,7 @@
 ☎️ `03137934639`
 
 
-🌐 nasr_a@sci.ui.ac.ir
+🌐 [nasr_a@sci.ui.ac.ir](mailto:nasr_a@sci.ui.ac.ir)
 
 
 همچنین در حال حاضر ۳۸ عضو هیئت علمی مشغول به فعالیت در دانشکده هستند. 
