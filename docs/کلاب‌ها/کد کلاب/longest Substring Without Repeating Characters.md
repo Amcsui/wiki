@@ -98,7 +98,7 @@
  **کد پاسخ:**
 
 
-```python
+```python linenums='1'
 
 class Solution:
 
