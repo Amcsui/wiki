@@ -103,7 +103,7 @@
 - [فرم درخواست همکاری](https://app.epoll.pro/28655325)
 
 
-- [اطلاعات بیشتر (زیرلینک)](https://zil.ink/raadjournal)
+- [اطلاعات بیشتر (زی‌لینک)](https://zil.ink/raadjournal)
   
   
 - [کانال تلگرام](https://t.me/RaadJournal)
