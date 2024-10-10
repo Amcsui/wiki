@@ -4,6 +4,16 @@
 
 ## اعضای شورا
 
+
+![image](council-member-1.jpg)
+
+
+![image](council-member-2.jpg)
+
+
+![image](council-member-3.jpg)
+
+
 - [ امین مسعودی (دبیر)](https://t.me/amin_masoudi_123)
 
   ایمیل: [`aminmasoudi2003@gmail.com`](mailto:aminmasoudi2003@gmail.com)
@@ -20,7 +30,7 @@
 
   ایمیل: [`mohammad.mallaee@gmail.com`](mailto:mohamamd.mallaee@gmail.com)
 
-- [داوود نصرتی](https://t.me/davwvod)
+- [داوود نصرتی](https://t.me/ausdavoud)
 
   ایمیل: [`davwvod@gmail.com`](mailto:davwvod@gmail.com)
 

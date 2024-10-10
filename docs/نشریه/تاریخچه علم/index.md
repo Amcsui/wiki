@@ -40,4 +40,4 @@
 [صفحه اینستاگرام](https://www.instagram.com/raadjournal)
 
 
-[اطلاعات بیشتر (زیلینک نشریه)](https://zil.ink/raadjournal)
+[اطلاعات بیشتر (زی‌لینک نشریه)](https://zil.ink/raadjournal)
