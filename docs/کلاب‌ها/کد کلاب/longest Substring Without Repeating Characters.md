@@ -1,4 +1,4 @@
-  # Longest Substring Without Repeating Characters
+# Longest Substring Without Repeating Characters
 
 
 ***تاریخ:*** *جلسه ۱ - ۹ مرداد ۱۴۰۳*
@@ -22,7 +22,7 @@
 **مثال ۱:**
 
   
-**ورودی:** "s = abcabcbb"
+**ورودی:** `s = abcabcbb`
 
 
 **خروجی:** ۳
@@ -34,7 +34,7 @@
 **مثال ۲:**
 
 
-**ورودی:** "s = bbbbb"
+**ورودی:** `s = bbbbb`
 
 
 **خروجی:** ۱
@@ -46,7 +46,7 @@
 **مثال ۳:**
 
   
-**ورودی:** "s = pwwkew"
+**ورودی:** `s = pwwkew`
 
 
 **خروجی:** ۳
