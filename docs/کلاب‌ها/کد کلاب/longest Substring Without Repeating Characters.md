@@ -1,18 +1,13 @@
-  
 # Longest Substring Without Repeating Characters
 
 
-
-***تاریخ جلسه:*** *۹ مرداد ۱۴۰۳*
-
-
-‌
+***تاریخ:*** *جلسه ۱ - ۹ مرداد ۱۴۰۳*
 
 
 ## صورت سوال
 
 
-**لینک سوال**: [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+**لینک سوال**: [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 
 ---
@@ -21,14 +16,13 @@
 یک string با نام s به شما داده شده است، طولانی‌ترین زیررشته با کاراکترهای غیرتکراری را در آن بیابید.
 
 
-
 دقت کنید که زیر رشته با زیرمجموعه فرق میکند. به مثال‌های زیر توجه کنید:
 
 
 **مثال ۱:**
 
   
-**ورودی:** "s = abcabcbb"
+**ورودی:** `s = abcabcbb`
 
 
 **خروجی:** ۳
@@ -40,9 +34,11 @@
 **مثال ۲:**
 
 
-**ورودی:** "s = bbbbb"
+**ورودی:** `s = bbbbb`
+
 
 **خروجی:** ۱
+
 
 **توضیح:** جواب b با طول ۱ است.
 
@@ -50,7 +46,7 @@
 **مثال ۳:**
 
   
-**ورودی:** "s = pwwkew"
+**ورودی:** `s = pwwkew`
 
 
 **خروجی:** ۳
@@ -71,9 +67,6 @@
 - رشته `s` شامل حروف انگلیسی، اعداد، علامت‌ها و space است.  
 
 
-‌
-
-
 ## منابع حل سوال
 
 
@@ -81,9 +74,6 @@
 
 
 [What is Sliding Window Algorithm? Examples](https://stackoverflow.com/questions/8269916/what-is-sliding-window-algorithm-examples)
-
-
-‌
 
 
 ## پاسخ سوال
@@ -98,7 +88,7 @@
  **کد پاسخ:**
 
 
-```python
+```python linenums='1'
 
 class Solution:
 
@@ -161,13 +151,13 @@ class Solution:
 اما چرا؟
 
 
-    لیست دیده‌شده‌ها (seen) حاوی کاراکترهای بزرگترین زیررشته‌ای است که تا الان پیدا کرده‌ایم، نه تمام کاراکترهایی که تا الان دیده‌ایم.
+لیست دیده‌شده‌ها (seen) حاوی کاراکترهای بزرگترین زیررشته‌ای است که تا الان پیدا کرده‌ایم، نه تمام کاراکترهایی که تا الان دیده‌ایم.
 
   
 فرض کنید رشته‌ی ما
 
 
-```a  b  c  d  e   f  c  h   i```
+```a  b  c  d  e  f  c  h  i```
 
 
 ```8  7  6  5  4  3  2  1  0```
