@@ -133,7 +133,7 @@
     <img src="momento-1.jpg" alt>
     <img src="momento-2.jpg" alt>
     <em>عکس یادگاری برخی از شرکت کنندگان و تیم اجرایی</em>
-</p>    
+</p>
 
 
 ## آلبوم خاطرات
