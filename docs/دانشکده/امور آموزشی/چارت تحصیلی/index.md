@@ -83,6 +83,9 @@
   ![barname-pishnahadi-2](barname-pishnahadi-2.jpg)
 
 
+**[فایل pdf چارت درسی علوم‌کامپیوتر](AMCSUI-Computer-Science-Chart-1401.pdf)**
+
+
 ## چارت درسی ریاضیات و کاربردها
 
 
@@ -141,3 +144,4 @@
 - حداکثر ۶ واحد از دروس اختیاری را دانشجو می‌تواند از دروس تخصصی رشته‌های دیگر اخذ کند.
   
   
+**[فایل pdf چارت درسی ریاضیات و کاربردها](AMCSUI-Mathematics-and-Applications-Chart-1401.pdf)**
