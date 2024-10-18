@@ -23,7 +23,7 @@
 
 - [فرم انتقادات و پیشنهادات](https://app.epoll.pro/31821200) 
 
-- [زیرلینک انجمن](https://zil.ink/AMCSUI)
+- [زی‌لینک انجمن](https://zil.ink/AMCSUI)
 
 - [صفحه اینستاگرام](http://instagram.com/AMCSUI)
 
