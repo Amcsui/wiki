@@ -38,7 +38,7 @@
 <summary>
 برنامه هفتگی
 </summary>
-<img src="alambardar.jpg"/>
+<img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744019474/alambardar_m8mcwy.jpg"/>
 </details>
 
 
@@ -79,7 +79,7 @@
 <summary>
 برنامه هفتگی
 </summary>
-<img src="esmaeeili.jpg"/>
+<img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744019568/esmaeeili_rkdptl.jpg"/>
 </details>
   
   
@@ -157,7 +157,7 @@
 <summary>
 برنامه هفتگی
 </summary>
-<img src="khosravian.jpg"/>
+<img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744019663/khosravian_hvjsdk.jpg"/>
 </details>
 
 
@@ -183,7 +183,7 @@
 <summary>
 برنامه هفتگی
 </summary>
-<img src="rafiee.jpg"/>
+<img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744019714/rafiee_vqoyep.jpg"/>
 </details>
 
 
@@ -254,7 +254,7 @@
 <summary>
 برنامه هفتگی
 </summary>
-<img src="movahedian.jpg"/>
+<img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744019771/movahedian_huprgb.jpg"/>
 </details>
 
 
@@ -359,7 +359,7 @@
 <summary>
 برنامه هفتگی
 </summary>
-<img src="khatami.jpg"/>
+<img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744019837/khatami_oyuh9f.jpg"/>
 </details>
   
 [اطلاعات بیشتر](https://sci.ui.ac.ir/m.khatami)
@@ -384,7 +384,7 @@
 <summary>
 برنامه هفتگی
 </summary>
-<img src="khosravi.jpg"/>
+<img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744019865/khosravi_yuzgn8.jpg"/>
 </details>
 
 
@@ -416,7 +416,7 @@
 <summary>
 برنامه هفتگی
 </summary>
-<img src="abtahi.jpg"/>
+<img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744019902/abtahi_identx.jpg"/>
 </details>
 
 
@@ -445,7 +445,7 @@
 <summary>
 برنامه هفتگی
 </summary>
-<img src="asadolahi.jpg"/>
+<img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744019937/asadolahi_mdau9e.jpg"/>
 </details>
 
 
@@ -498,7 +498,7 @@
 <summary>
 برنامه هفتگی
 </summary>
-<img src="amini.jpg"/>
+<img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744019978/amini_dkzxv0.jpg"/>
 </details>
 
 
@@ -530,7 +530,7 @@
 <summary>
 برنامه هفتگی
 </summary>
-<img src="bagherian.jpg"/>
+<img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744020008/bagherian_vmj5es.jpg"/>
 </details>
 
 
@@ -580,7 +580,7 @@
 <summary>
 برنامه هفتگی
 </summary>
-<img src="salarian.jpg"/>
+<img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744020037/salarian_urwua6.jpg"/>
 </details>
 
 
@@ -612,7 +612,7 @@
 <summary>
 برنامه هفتگی
 </summary>
-<img src="salimi.jpg"/>
+<img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744020068/salimi_yrz5uv.jpg"/>
 </details>
 
 
@@ -647,7 +647,7 @@
 <summary>
 برنامه هفتگی
 </summary>
-<img src="abdelahi.jpg"/>
+<img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744020096/abdelahi_anlmku.jpg"/>
 </details>
 
 
@@ -676,7 +676,7 @@
 <summary>
 برنامه هفتگی
 </summary>
-<img src="fakhar.jpg"/>
+<img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744020133/fakhar_f0psr2.jpg"/>
 </details>
 
 
@@ -708,7 +708,7 @@
 <summary>
 برنامه هفتگی
 </summary>
-<img src="nasr.jpg"/>
+<img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744020160/nasr_pllk9u.jpg"/>
 </details>
 
 
@@ -737,7 +737,7 @@
 <summary>
 برنامه هفتگی
 </summary>
-<img src="yosefzade.jpg"/>
+<img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744020183/yosefzade_izdmg8.jpg"/>
 </details>
 
 

@@ -37,13 +37,13 @@
 3\. در ابتدا سعی کنید با زدن گزینه `Windows Explorer` فایل `iso` رو اصطلاحا `Mount` کنید.
 
 
-![p-1](1.png)
+![p-1](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744023218/1_rwprp0.png)
 
 
 4\. برای اینکه مطمئن بشید وقتی گزینه رو زدید، همه چیز اوکی بوده و کار کرده، به منوی سمت چپی که توی عکس می‌بینید دقت کنید. اگر درایو جدیدی با اسم `F` یا حرف دیگری ایجاد شده بود و با باز کردنش محتویاتی مثل تصویر زیر دیدید، همه چیز آماده نصب هست و میتونید به مرحله ۵ مراجعه کنید. در غیر این صورت، سه مرحله زیر رو دنبال کنید.
 
 
-![p-2](2.png)
+![p-2](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744023223/2_mbmh43.png)
 
 
 - اگه این درایو رو ندیدید، نرم‌افزار [WinCDEmu](https://github.com/sysprogs/WinCDEmu/releases/download/v4.1/WinCDEmu-4.1.exe) رو نصب کنید.
@@ -57,13 +57,13 @@
 6\. باید پنجره‌ای باز بشه و پس از چند لحظه تصویری مشابه با چیزی که در زیر می‌بینید قابل مشاهده باشه.
 
 
-![p-3](3.png)
+![p-3](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744023228/3_suffqm.png)
 
 
 7\. در اینجا نیاز به انجام تغییرات خاصی نیست، ولی پیشنهاد میشه اگر درایو `C` تون پر هست یا حجم کمی داره، روی گزینه `Change` کلیک کنید و درایو رو تغییر بدید.
 
 
-![p-4](4.png)
+![p-4](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744023234/4_xqshho.png)
 
 
 8\. همونطور که در تصویر می‌بینید، فایل نصبی در حال نصب 4564 پکیج هست که تا اینجای کار 3247 عدد از اونها نصب شدند. مدت زمان نصب ممکنه تا ۴۰ دقیقه طول بکشه. منتظر بمونید تا نصب تموم بشه و پیامی مثل عکس زیر دریافت کنید.
@@ -72,7 +72,7 @@
 `Welcome to Tex Live!`
 
 
-![p-5](5.png)
+![p-5](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744023239/5_jzxwla.png)
 
 
 نصب Tex Live در اینجا به پایان رسید.
@@ -96,19 +96,19 @@
 با اینکه منویی که فلش قرمز به یکی از گزینه‌هاش اشاره کرده به صورت پیش‌فرض در سمت چپ برنامه قرار داره، پیشنهاد میشه که اونو به سمت راست منتقل کنید. برای این کار روی منو کلیک راست کرده و گزینه `Move Primary Side Bar Right` رو انتخاب کنید.
 
 
-![p-6](6.png)
+![p-6](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744023244/6_gprv1v.png)
 
 
 - حالا در قسمت سرچ، عبارت `Latex Workshop` رو جست‌وجو کنید و موردی که از همه بیشتر دانلود داره (!) رو `Install` کنید. ممکنه برای این کار نیاز به تحریم‌شکن داشته باشید.
 
 
-![p-7](7.png)
+![p-7](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744023250/7_fcz1qn.png)
 
 
 - در نهایت باید صفحه‌ای مثل این عکس داشته باشید:
 
 
-![p-8](8.png)
+![p-8](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744023255/8_ydtrws.png)
 
 
 ## تنظیم کامپایلر و اجرای اولین دستور
@@ -117,32 +117,32 @@
 1\. ابتدا باید یک پوشه بسازیم و اونو با `VS Code` باز کنیم. برای این کار روی گزینه `File` کلیک کنید و `Open Folder` را بزنید.
 
 
-![p-9](9.png)
+![p-9](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744023260/9_euhs9u.png)
 
 
 2\. حالا می‌تونید پوشه مورد نظر خودتونو انتخاب کنید. برای مثال اینجا توی درایو `D` پوشه `uni` و سپس `Tex` انتخاب شده. با استفاده از دکمه‌ای که در تصویر مشخص شده می‌توانید در هر مرحله پوشه‌ی مورد نظر خودتونو ایجاد کنید. در پایان روی دکمه `Select Folder` در پایین پنجره کلید کنید. 
 
 
-![p-10](10.png)
+![p-10](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744023265/10_lgnpbp.png)
 
 
 3\. حالا `File Explorer` رو باز کنید.
 
 
-![p-11](11.png)
+![p-11](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744023271/11_akz6zp.png)
 
 
 4\. در این مرحله با استفاده از دکمه‌ای که در تصویر مشخص شده یک پوشه با نام `vscode.` بسازید. به نقطه‌ی اول اسم پوشه دقت کنید. قبل از نقطه هم چیزی قرار ندید.
 
 
-![p-12](12.png)
+![p-12](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744023276/12_lvy7zx.png)
 
 
 
 5\. وارد پوشه بشید و یک فایل به اسم `settings.json` ایجاد کنید. حالا بسته به سیستم‌عاملتون `Windows` / `MacOS` , `Linux` مقادیر زیر رو در اون کپی کنید.
 
 
-![p-13](13.png)
+![p-13](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744023282/13_oszccc.png)
 
 
 `Windows`:
@@ -320,10 +320,10 @@ $$\sum_{n=0}^{\infty} \frac{f^{(n)}(a)}{n!}(x - a)^n$$
 ```
 
 
-![p-14](14.png)
+![p-14](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744023287/14_tzthap.png)
 
 
 7\. چند لحظه صبر کنید و سپس برای دیدن نتیجه کار خود روی دکمه‌ای که کنار `Run` است کلیک کنید.
 
 
-![p-15](15.png)
+![p-15](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744023293/15_i1ta6x.png)
