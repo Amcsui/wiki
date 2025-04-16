@@ -4,7 +4,7 @@
 ## مقدماتی بر لینوکس
 
 
-![linux](linux.jpg)
+![linux](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744023814/linux_w0huwx.jpg)
 
 
 - **رزومه مدرس:**
@@ -38,7 +38,7 @@
 ## الگوریتم‌های کاربردی
 
 
-![algorithm](algorithm.jpg)
+![algorithm](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744023802/algorithm_jt6nwc.jpg)
 
 
 -  **رزومه مدرسین:**
@@ -69,7 +69,7 @@
 ## رمزنگاری متقارن و نامتقارن
 
 
-![encryption](encryption.jpg)
+![encryption](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744023808/encryption_wsuim3.jpg)
 
 
 - **رزومه مدرس:**
@@ -106,7 +106,7 @@
 ## استگانوگرافی و نفوذ به وب 
 
 
-![steganography](steganography.jpg)
+![steganography](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744023826/steganography_issx28.jpg)
 
 
 - **رزومه مدرس:**
@@ -147,7 +147,7 @@
 ## مهندسی معکوس اندروید
 
 
-![reverse-engineering](reverse-engineering.jpg)
+![reverse-engineering](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744023820/reverse-engineering_fn1uzd.jpg)
 
 
 - **رزومه مدرس:**

@@ -5,7 +5,7 @@
 شهر قدیمی آمبرهاون دارای خیابان‌های باریک بسیاری است. ترافیک سنگین می‌تواند به این خیابان‌ها آسیب برساند و ون‌های بزرگ معمولاً در این خیابان‌های باریک به ویژه هنگام دور زدن، به خوبی جا نمی‌شوند. به همین دلیل، مرکز شهر قدیمی برای ترافیک به سختی قابل دسترس است. با این حال مغازه‌ها (و خدمات پذیرایی) در مرکز شهر باید تامین شود... در این مرحله مقدماتی المپیاد, به (نا)ممکن‌ها نگاه می‌کنیم.
 
 
-![picture1](s1.p1.png)
+![picture1](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744025166/s1.p1_fradrt.png)
 
 
 **لطفاً توجه کنید:** ممکن است نیاز باشد برای این وظیفه فرضیات (اضافی) داشته باشید. توضیحات و توجیهات واضحی از انتخاب‌های خود ارائه دهید. 
@@ -69,7 +69,7 @@
 1. وزن (حداکثر 2000 کیلوگرم)
 
 <figure>
-    <img src="s1.p2.png"
+    <img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744025174/s1.p2_bmmzz3.png"
          alt="picture2">
     <figcaption>این نقشه، منطقه‌ای به مساحت 400 در 400 متر را نشان می‌دهد.</figcaption>
 </figure>
@@ -78,7 +78,7 @@
  2. طول (حداکثر 6 متر)
 
  <figure>
-    <img src="s1.p3.png"
+    <img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744025181/s1.p3_cxv6nr.png"
          alt="picture3">
     <figcaption>این نقشه، منطقه‌ای به مساحت 400 در 400 متر را نشان می‌دهد.</figcaption>
 </figure>
@@ -86,7 +86,7 @@
 
 3. عرض (حداکثر 2.3 متر)
 <figure>
-    <img src="s1.p4.png"
+    <img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744025211/s1.p4_yd9jh8.png"
          alt="picture4">
     <figcaption>این نقشه، منطقه‌ای به مساحت 400 در 400 متر را نشان می‌دهد.</figcaption>
 </figure>

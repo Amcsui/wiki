@@ -4,7 +4,7 @@
 *تحت امتیاز [انجمن علمی ریاضی و علوم‌کامپیوتر](https://zil.ink/amcsui) دانشگاه اصفهان*  
 
 
-![rad journal](Raad-Poster.jpg)
+![rad journal](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744025452/Raad-Poster_tjmr1h.jpg)
 
 
 ## درباره‌ی ما
@@ -25,10 +25,10 @@
 ## شورای رعد
 
 
-![ra'd Council](rad-member-1.jpg)
+![ra'd Council](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744025459/rad-member-1_osecfk.jpg)
 
 
-![ra'd Council](rad-member-2.jpg)
+![ra'd Council](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744025466/rad-member-2_zywk3s.jpg)
 
 
 👤 [**فرزانه سلیمی**](https://t.me/Farxami)

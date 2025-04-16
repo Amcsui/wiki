@@ -1,7 +1,7 @@
 # آموزش روش‌های انتگرال‌گیری نامعین
 
 
-![integral-poster](integral-poster.jpg)
+![integral-poster](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744023656/integral-poster_oxjwai.jpg)
 
 
 - **سطح برنامه:** دانشگاهی

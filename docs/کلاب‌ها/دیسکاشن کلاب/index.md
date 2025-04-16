@@ -1,4 +1,4 @@
-![Discussion Club](statics/Discussion-Club.jpg)
+![Discussion Club](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744024781/Discussion-Club_m9arga.jpg)
 
 
 ## سلسله بحث آزاد انگلیسی در «دیسکاشن کلاب ریکا»

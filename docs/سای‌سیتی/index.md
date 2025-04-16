@@ -4,7 +4,7 @@
 *مسابقه‌ای آموزش‌محور و بازی‌وار شده در شهری دیوانه‌وار*
 
 
-![main-poster](main-poster.jpg)
+![main-poster](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744023773/main-poster_fsgbmg.jpg)
 
 
 سای‌سیتی، شهری پر هرج و مرج با چاشنی طنز در دنیایی موازی، که در آن هیجان علوم‌کامپیوتر با قصه‌های جنایی و ذکاوت یک معامله‌ی خوب ترکیب می‌شود!

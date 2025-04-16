@@ -1,7 +1,7 @@
 # رویداد انتقال تجربه کامپیوتری XPCon 2023
 
 
-![XPCon-poster](XPCon-poster.jpg)
+![XPCon-poster](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744022294/XPCon-poster_ku0v9v.jpg)
 
 
 - **مراکز همکار:**  انجمن علمی مهندسی کامپیوتر دانشگاه اصفهان، شرکت مهیمن، خبرگزاری ایسکانیوز
@@ -59,7 +59,7 @@
 
 
 <p>
-    <img src="scan-qrcode.jpg" alt>
+    <img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744022281/scan-qrcode_shbqp5.jpg" alt>
     <em>شرکت کنندگان در حال ارسال رزومه در کنار غرفه شرکت مهیمن</em>
 </p>
 
@@ -68,7 +68,7 @@
 
 
 <p>
-    <img src="ask-question.jpg" alt>
+    <img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744022231/ask-question_l1fgrx.jpg" alt>
     <em>پرسش و پاسخ شرکت کنندگان</em>
 </p>
 
@@ -87,7 +87,7 @@
 
 
 <p>
-    <img src="haghighat.jpg" alt>
+    <img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744022243/haghighat_p5lvnx.jpg" alt>
     <em>سخنرانی مهندس محمد حقیقت</em>
 </p>
 
@@ -105,7 +105,7 @@
 
 
 <p>
-    <img src="mahmodi.jpg" alt>
+    <img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744022249/mahmodi_cl4d8h.jpg" alt>
     <em>سخنرانی مهندس نازنین محمودی</em>
 </p>
 
@@ -123,7 +123,7 @@
 
 
 <p>
-    <img src="sartipi.jpg" alt>
+    <img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744022277/sartipi_kzscml.jpg" alt>
     <em>سخنرانی مهندس امیر سرتیپی</em>
 </p>
 
@@ -148,8 +148,8 @@
 
   
 <p>
-    <img src="dehbashi-rabiee.jpg" alt>
-	<img src="rabiee.jpg" alt>
+    <img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744022236/dehbashi-rabiee_wntx2c.jpg" alt>
+	<img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744022268/rabiee_xwilpo.jpg" alt>
     <em>سخنرانی مهندسین محسن دهباشی و غزال ربیعی</em>
 </p>
 
@@ -167,13 +167,13 @@
 
   
 <p>
-	<img src="gaming.jpg" alt>
+	<img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744022239/gaming_vljtcr.jpg" alt>
     <em>شرکت کنندگان در حال انجام مسابقه</em>
 </p>
 
 
 <p>
-	<img src="reward.jpg" alt>
+	<img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744022274/reward_s3uavz.jpg" alt>
     <em>اهدای جوایز به دانشجویان برتر مسابقه</em>
 </p>
 
@@ -182,27 +182,27 @@
 
 
 <p>
-	<img src="music-part.jpg" alt>
+	<img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744022260/music-part_ljvluz.jpg" alt>
     <em>اجرای موسیقی زنده توسط دو دانشجو</em>
 </p>
 
 
 <p>
-	<img src="pack.jpg" alt>
+	<img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744022264/pack_z5zaq6.jpg" alt>
     <em>بسته‌های پذیرایی دوستدار محیط زیست</em>
 </p>
 
 
 <p>
-	<img src="view-1.jpg" alt>
-	<img src="view-2.jpg" alt>
+	<img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744022285/view-1_cnkmxe.jpg" alt>
+	<img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744022290/view-2_rxoxyk.jpg" alt>
     <em>نمایی اجمالی از فضای کنفرانس</em>
 </p>
 
 
 <p>
-	<img src="memnto-1.jpg" alt>
-	<img src="memnto-2.jpg" alt>
+	<img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744022252/memnto-1_ltisit.jpg" alt>
+	<img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744022257/memnto-2_unqmgo.jpg" alt>
     <em>تصاویر یادگاری شرکت کنندگان و تیم اجرایی</em>
 </p>
 

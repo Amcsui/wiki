@@ -1,7 +1,7 @@
 # چگونه در لینوکس زنده بمانیم؟
 
 
-![linux poster](linux-poster.png)
+![linux poster](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744022771/linux-poster_sgpibc.png)
 
 
 - **سطح برنامه:** دانشگاهی

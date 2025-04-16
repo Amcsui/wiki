@@ -1,4 +1,4 @@
-![Python](statics/Python-Mentorship.jpg)
+![Python](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744025320/Python-Mentorship_ezf4l5.jpg)
 
 
 به منتورشیپ پایتون خوش اومدید

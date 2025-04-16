@@ -1,7 +1,7 @@
 # اکران مستند «دانش خطرناک» همراه با بحث و بررسی علمی
 
 
-![dangerous-knowledge-poster](dangerous-knowledge-poster.jpg)  
+![dangerous-knowledge-poster](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744022971/dangerous-knowledge-poster_mv0jwb.jpg)  
 
 
 - **سطح برنامه:** دانشگاهی
@@ -52,19 +52,19 @@
 
 
 <p>
-    <img src="movie.jpg" alt>
+    <img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744022986/movie_cnhtkb.jpg" alt>
     <em>تصویری از مستند در حال اکران</em>
 </p>
 
 
 <p>
-    <img src="seraji.jpg" alt>
+    <img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744023016/seraji_erlqyo.jpg" alt>
     <em>سخنرانی دکتر پیام سراجی</em>
 </p>
 
 
 <p>
-    <img src="attendance.jpg" alt>
+    <img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744022955/attendance_nygvpa.jpg" alt>
     <em>نمونه مشارکت دانشجویان در بحث</em>
 </p>
 
@@ -76,18 +76,18 @@
 
 
 <p>
-    <img src="professor.jpg" alt>
+    <img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744022991/professor_v37p7h.jpg" alt>
     <em>نمونه حضور و مشارکت اساتید در بحث</em>
 </p>
 
 
 <p>
-    <img src="hall.jpg" alt>
+    <img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744022977/hall_lyyym5.jpg" alt>
     <em>فضای فیلم‌فِست</em>
 </p>
 
 
 <p>
-    <img src="momento.jpg" alt>
+    <img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744022982/momento_siycwe.jpg" alt>
     <em>عکس یادگاری برخی از اساتید و شرکت کنندگان</em>
 </p>

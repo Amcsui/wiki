@@ -1,7 +1,7 @@
 # کارگاه گیت‌هاب
 
 
-![GitHub Poster](GitHub-Poster.jpg)
+![GitHub Poster](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744022760/GitHub-Poster_ynemhh.jpg)
 
 
 *آغاز مسیر اوپن سورس شما با معروف‌ترین بستر اشتراک‌گذاری کد و برنامه‌نویسی تیمی*
@@ -85,12 +85,12 @@
 
 
 <p>
-    <img src="place.jpg" alt>
+    <img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744022764/place_cxitct.jpg" alt>
     <em>فضای کارگاه</em>
 </p>
 
 
 <p>
-    <img src="amin.jpg" alt>
+    <img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744022755/amin_syttir.jpg" alt>
     <em>ارائه دهنده</em>
 </p>

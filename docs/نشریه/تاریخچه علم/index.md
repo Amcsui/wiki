@@ -4,7 +4,7 @@
 ## جان نش
 
 
-  ![image](nash.jpg)
+  ![image](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744025476/nash_cdfjcv.jpg)
 
 
 جان فوربز نش جونیور طلایه‌دار ریاضیات، در سال ۱۹۲۸ در ویرجینیای غربی متولد شد.

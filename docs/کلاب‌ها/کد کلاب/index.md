@@ -1,4 +1,4 @@
-![Code Club](Poster-Code-Club.jpg)
+![Code Club](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744024800/Poster-Code-Club_ccaqhu.jpg)
 
 
 ## سلسله جلسات کدنویسی در «کد کلاب ریکا»
