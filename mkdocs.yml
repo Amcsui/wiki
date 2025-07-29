@@ -1,5 +1,5 @@
 
-site_name: WIKI
+site_name: ریکاپدیا | RikaPedia 
 site_url: https://wiki.amcsui.ir
 plugins:
   - section-index
@@ -36,6 +36,81 @@ theme:
   features:
     - content.code.copy
     - content.code.annotate
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.path
+    - navigation.top
+    # - navigation.sections
+    - navigation.footer
+    - content.action.view
+
+nav:
+  - خانه:
+    - خانه: index.md
+    - درباره ما: about_us.md
+  - دانشکده: 
+    - دانشکده: Faculty/index.md
+    - اساتید: 
+      - Faculty/Professors/index.md
+      - Faculty/Professors/ab.varshovi.md
+      - Faculty/Professors/azam.md
+      - Faculty/Professors/bagherian.md
+      - Faculty/Professors/b.akhtari.md
+      - Faculty/Professors/d.mirzaei.md
+      - Faculty/Professors/f.abtahi.md
+      - Faculty/Professors/f.mansoori.md
+      - Faculty/Professors/h.khosravian.md
+      - Faculty/Professors/j.almasizadeh.md
+      - Faculty/Professors/m.alambardar.md
+      - Faculty/Professors/m.khatami.md
+      - Faculty/Professors/m.rafiee.md
+      - Faculty/Professors/najmeh.hoseini.md
+      - Faculty/Professors/n.esmaeeli.md
+      - Faculty/Professors/n.movahedian.md
+      - Faculty/Professors/r.sobhani.md
+      - Faculty/Professors/a.abdollahi.md
+      - Faculty/Professors/a.amini.md
+      - Faculty/Professors/a.parvardeh.md
+      - Faculty/Professors/asadollahi.md
+      - Faculty/Professors/e.zamanzade.md
+      - Faculty/Professors/f.khosravi.md
+      - Faculty/Professors/f.sajadi.md
+      - Faculty/Professors/fakhar.md
+      - Faculty/Professors/ft.farani.md
+      - Faculty/Professors/h-talebi.md
+      - Faculty/Professors/h.bidram.md
+      - Faculty/Professors/hr.salimi.md
+      - Faculty/Professors/ikazemi.md
+      - Faculty/Professors/iranpanah.md
+      - Faculty/Professors/m.asadi.md
+      - Faculty/Professors/m.maleki.md
+      - Faculty/Professors/m.mohammadi.md
+      - Faculty/Professors/m.tavangar.md
+      - Faculty/Professors/ma.yousofzadeh.md
+      - Faculty/Professors/nasr_a.md
+      - Faculty/Professors/pourya.md
+      - Faculty/Professors/s.ashrafi.md
+      - Faculty/Professors/sh.salarian.md
+      - Faculty/Professors/z.mansourvar.md
+      - Faculty/Professors/s.nobakht.md
+    - دروس: 
+      - Faculty/Courses/index.md      
+  - رویدادها: 
+    - Events/index.md
+    - دوره قبلی: 
+      - Events/1402-1403/index.md
+      - Events/1402-1403/OlympiGames/index.md
+      - Events/1402-1403/BookClub.md
+      - Events/1402-1403/DiscussionClub.md
+      - Events/1402-1403/workshop.github.md
+      - Events/1402-1403/sciclub.linux.md
+      - Events/1402-1403/XPCon/index.md
+      - سای‌سیتی:
+        - Events/1402-1403/Psycity/index.md
+        - Events/1402-1403/Psycity/workshops/index.md
+    - بوتکمپ وب : Events/Bootcamp.web.md
     
 extra_css:
   - stylesheets/extra.css
