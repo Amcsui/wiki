@@ -5,13 +5,13 @@
 ## اعضای شورا
 
 
-![image](council-member-1.jpg)
+![image](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744025011/council-member-1_l90zta.jpg)
 
 
-![image](council-member-2.jpg)
+![image](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744025018/council-member-2_htshs8.jpg)
 
 
-![image](council-member-3.jpg)
+![image](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744025024/council-member-3_cicetj.jpg)
 
 
 - [ امین مسعودی (دبیر)](https://t.me/amin_masoudi_123)

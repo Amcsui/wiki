@@ -106,10 +106,10 @@
 ### مراحل عملیات حذف اضطراری
 
 
-![info-1](info-1.jpg)
+![info-1](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744021429/info-1_gufwh3.jpg)
 
 
-![info-2](info-2.jpg)
+![info-2](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744021432/info-2_rbhvuc.jpg)
 
 
 1. ورود به [سامانه گلستان](https://golestan.ui.ac.ir)

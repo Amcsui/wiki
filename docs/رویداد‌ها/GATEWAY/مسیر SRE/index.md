@@ -1,6 +1,6 @@
 # Gateway | SRE
 
-![poster](./poster.jpg)
+![poster](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744021841/poster_tzt0oe.jpg)
 
 با ما در مسیر آشنایی با مسیرهای شغلی همراه شو!
 

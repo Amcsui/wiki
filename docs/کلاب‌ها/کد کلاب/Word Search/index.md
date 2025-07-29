@@ -22,7 +22,7 @@
 هر خانه جدول تنها یک بار می‌تواند استفاده شود.
 
 
-![image](picture-1.jpg)
+![image](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744024814/picture-1_y7c0dz.jpg)
 
 
 **ورودی:**
@@ -40,7 +40,7 @@ word = "ABCCED"
 **خروجی:** `true`
 
 
-![image](picture-2.jpg)
+![image](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744024821/picture-2_wos64n.jpg)
 
 
 **ورودی:**
@@ -58,7 +58,7 @@ word = "SEE"
 **خروجی:** `true`
 
 
-![Pasted image 20240928143208.png](picture-3.jpg)
+![Pasted image 20240928143208.png](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744024827/picture-3_rd3zk6.jpg)
 
 
 **ورودی:**

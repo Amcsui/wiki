@@ -4,7 +4,7 @@
 ## تقویم آموزشی نیم‌سال دوم سال تحصیلی ۱۴۰۳-۱۴۰۴ 
 
 
-![amozeshi](amozeshi.png)
+![amozeshi](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744020345/amozeshi_teyh6o.png)
 
 
 [فایل pdf تقویم آموزشی ۱۴۰۳-۱۴۰۴](amozeshi1403-1404.pdf)
@@ -13,10 +13,10 @@
 ## تقویم تفصیلی نیم‌سال دوم تحصیلی ۱۴۰۳-۱۴۰۴ 
 
 
-![tafsili-1](tafsili-1.png)
+![tafsili-1](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744020348/tafsili-1_b2ya8n.png)
 
 
-![tafsili-2](tafsili-2.png)
+![tafsili-2](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744020350/tafsili-2_bboyjq.png)
 
 
 ⚠️  \*این درخواست‌ها تنها برای دانشجویانی است که دارای شرایط خاص مستند هستند. لذا از ارسال درخواست‌هایی که فاقد مستندات لازم برای شرایط خاص می‌باشد،خودداری شود.

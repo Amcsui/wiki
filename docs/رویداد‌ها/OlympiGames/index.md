@@ -3,7 +3,7 @@
 **ایستگاه بازی‌های هیجانی ریاضی با جوایزی از جنس بردگیم به مناسبت روز دانشجو**
 
 
-![OlympiGames-poster](OlympiGames-poster.jpg)
+![OlympiGames-poster](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744021949/OlympiGames-poster_avevm5.jpg)
 
 
 - **مراکز همکار:** انجمن علمی آمار دانشگاه اصفهان
@@ -73,25 +73,25 @@
 
 
 <p>
-    <img src="chess.jpg" alt>
+    <img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744021934/chess_siyk3v.jpg" alt>
     <em>رقابت ایستگاه شطرنج</em>
 </p>
 
 
 <p>
-    <img src="rubik.jpg" alt>
+    <img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744021961/rubik_iwi2bi.jpg" alt>
     <em>رقابت ایستگاه روبیک</em>
 </p>
 
 
 <p>
-    <img src="othello.jpg" alt>
+    <img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744021954/othello_z35qux.jpg" alt>
     <em>رقابت ایستگاه اتلو</em>
 </p>
 
 
 <p>
-    <img src="countdown.jpg" alt>
+    <img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744021937/countdown_boa5v6.jpg" alt>
     <em>رقابت ایستگاه شمارش معکوس</em>
 </p>  
 
@@ -100,19 +100,19 @@
 
 
 <p>
-    <img src="reward.jpg" alt>
+    <img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744021957/reward_no5utc.jpg" alt>
     <em>اهدای جایزه به ۵ شرکت کننده برتر</em>
 </p>  
 
 
 <p>
-    <img src="snack-1.jpg" alt>
+    <img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744021965/snack-1_fwflts.jpg" alt>
     <em>پذیرایی در طول مسابقه</em>
 </p>  
 
 
 <p>
-    <img src="snack-2.jpg" alt>
+    <img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744021969/snack-2_rhmcp8.jpg" alt>
     <em>صرف آش پس از مسابقه به مناسبت روز دانشجو</em>
 </p>  
 
@@ -130,8 +130,8 @@
 
 
 <p>
-    <img src="momento-1.jpg" alt>
-    <img src="momento-2.jpg" alt>
+    <img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744021941/momento-1_nazyxk.jpg" alt>
+    <img src="https://res.cloudinary.com/ddjzobmdv/image/upload/v1744021945/momento-2_mdt1mw.jpg" alt>
     <em>عکس یادگاری برخی از شرکت کنندگان و تیم اجرایی</em>
 </p>
 

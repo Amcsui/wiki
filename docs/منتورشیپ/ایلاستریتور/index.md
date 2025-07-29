@@ -1,7 +1,7 @@
 # منتورشیپ طراحی گرافیکی | Adobe Illustrator
 
 
-![Illustrator-poster](statics/Mentorship-Illustrator.jpg)
+![Illustrator-poster](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744025311/Mentorship-Illustrator_bvc4ik.jpg)
 
 
 **به دنیای ایلاستریتور خوش آمدید!** ✨

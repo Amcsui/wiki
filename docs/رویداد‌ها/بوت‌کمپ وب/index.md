@@ -1,4 +1,4 @@
-![image](web_bootcamp.jpg)
+![image](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744022605/web_bootcamp_fvw1cq.jpg)
 
 
 **بوت‌کمپ وِب**

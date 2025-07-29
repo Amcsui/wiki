@@ -10,7 +10,7 @@
 **طرح کلی برنامه**
   
   
-  ![table-1](table-1.jpg)
+  ![table-1](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744020827/table-1_pzs9y5.jpg)
   
   
   - دانشجویان باید ۱۳۶ واحد درسی را در قالب ذکر شده اخذ کنند.
@@ -28,13 +28,13 @@
 **دروس عمومی**
 
 
-  ![table-2](table-2.jpg)
+  ![table-2](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744020830/table-2_p8qz28.jpg)
 
 
 **دروس پایه**
 
 
-  ![table-3](table-3.jpg)
+  ![table-3](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744020834/table-3_wn40eh.jpg)
   
   
   ⚠️  دروس گذرانده شده مازاد بر یک درس از ردیف ۶ جدول به عنوان درس اختیاری تلقی خواهند شد.
@@ -43,7 +43,7 @@
 **دروس تخصصی اصلی**
 
 
-  ![table-4](table-4.jpg)
+  ![table-4](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744020837/table-4_lu56z6.jpg)
   
   
   ⚠️  گذارندن تمام ۵۴ واحد این جدول الزامی است.
@@ -52,7 +52,7 @@
 **دروس تخصصی انتخابی**
 
 
-  ![table-5](table-5.jpg)
+  ![table-5](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744020841/table-5_lixavf.jpg)
   
   
   ⚠️  گذراندن حداقل ۱۵ واحد این جدول الزامی است. 
@@ -62,25 +62,25 @@
 **دروس تخصصی انتخابی**
 
 
-  ![table-6](table-6.jpg)  
+  ![table-6](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744020843/table-6_vvem1d.jpg)  
 
 
 **برنامه دروس**
 
 
-  ![barname-doros-1](barname-doros-1.jpg)
+  ![barname-doros-1](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744020818/barname-doros-1_ntqqne.jpg)
   
   
-  ![barname-doros-2](barname-doros-2.jpg)
+  ![barname-doros-2](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744020820/barname-doros-2_bxwpyu.jpg)
   
   
  **برنامه پیشنهادی**
 
 
-  ![barname-pishnahadi-1](barname-pishnahadi-1.jpg)
+  ![barname-pishnahadi-1](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744020822/barname-pishnahadi-1_teqsqa.jpg)
   
   
-  ![barname-pishnahadi-2](barname-pishnahadi-2.jpg)
+  ![barname-pishnahadi-2](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744020825/barname-pishnahadi-2_ioovzr.jpg)
 
 
 **[فایل pdf چارت درسی علوم‌کامپیوتر](AMCSUI-Computer-Science-Chart-1401.pdf)**
@@ -95,42 +95,42 @@
 **نیمسال اول**
 
 
-  ![term-1](term-1.jpg)  
+  ![term-1](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744020847/term-1_dwiapg.jpg)  
   
 **نیمسال دوم**
 
 
-  ![term-2](term-2.jpg)  
+  ![term-2](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744020850/term-2_jhjole.jpg)  
   
 **نیمسال سوم**
 
 
-  ![term-3](term-3.jpg)  
+  ![term-3](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744020854/term-3_spaw3g.jpg)  
   
 **نیمسال چهارم**
 
 
-  ![term-4](term-4.jpg)  
+  ![term-4](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744020857/term-4_ezif9s.jpg)  
   
 **نیمسال پنجم**
 
 
-  ![term-5](term-5.jpg)  
+  ![term-5](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744020860/term-5_toc65w.jpg)  
   
 **نیمسال ششم**
 
 
-  ![term-6](term-6.jpg)  
+  ![term-6](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744020864/term-6_qylo1q.jpg)  
   
 **نیمسال هفتم**
 
 
-  ![term-7](term-7.jpg)  
+  ![term-7](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744020867/term-7_spffno.jpg)  
   
 **نیمسال هشتم**
 
 
-  ![term-8](term-8.jpg)  
+  ![term-8](https://res.cloudinary.com/ddjzobmdv/image/upload/v1744020871/term-8_rfbuju.jpg)  
 
 ⚠️  **نکات قابل توجه:**
 
