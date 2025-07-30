@@ -97,20 +97,56 @@ nav:
       - Faculty/Professors/s.nobakht.md
     - دروس: 
       - Faculty/Courses/index.md      
-  - رویدادها: 
-    - Events/index.md
+  - گزارش فعالیت‌ها: 
+    - EventsReport/index.md
+    - EventsReport/bookClub.md
+    - EventsReport/discussionClub.md
+    - EventsReport/codeClub.md
+    - EventsReport/journalClub.md
+    - EventsReport/bootcamp.web.md
+    - EventsReport/chessTournament.md
+    - EventsReport/documents.md
+    - EventsReport/filmfest.beautifulMind.md
+    - EventsReport/filmfest.dangersKnowledge.md
+    - EventsReport/graphTheory.md
+    - EventsReport/harkat.md
+    - EventsReport/khayam.md
+    - EventsReport/mathQuestions.md
+    - EventsReport/mentorship.illustrator.md
+    - EventsReport/mentorship.python.md
+    - EventsReport/newbies.fest.md
+    - EventsReport/newbies.gartering.md
+    - EventsReport/olympigames.1403.md
+    - EventsReport/pub.md # TODO: change
+    - EventsReport/researchWeek.md
+    - EventsReport/sciClub.db.md
+    - EventsReport/sciClub.Gateway.md
+    - EventsReport/sciClub.storage.md
+    - EventsReport/studentsOnboarding.md
+    - EventsReport/womenInMath.md
+    - EventsReport/workshop.crypto.md
+    - EventsReport/workshop.deferential.md
+    - EventsReport/workshop.integration.md
+    - EventsReport/workshop.latex.md
+    - EventsReport/XPCON2024.md
+    - EventsReport/XPCON2025.md
     - دوره قبلی: 
-      - Events/1402-1403/index.md
-      - Events/1402-1403/OlympiGames/index.md
-      - Events/1402-1403/BookClub.md
-      - Events/1402-1403/DiscussionClub.md
-      - Events/1402-1403/workshop.github.md
-      - Events/1402-1403/sciclub.linux.md
-      - Events/1402-1403/XPCon/index.md
+      - EventsReport/1402-1403/index.md
+      - EventsReport/1402-1403/OlympiGames/index.md
+      - EventsReport/1402-1403/BookClub.md
+      - EventsReport/1402-1403/DiscussionClub.md
+      - EventsReport/1402-1403/workshop.github.md
+      - EventsReport/1402-1403/sciclub.linux.md
+      - EventsReport/1402-1403/XPCon/index.md
       - سای‌سیتی:
-        - Events/1402-1403/Psycity/index.md
-        - Events/1402-1403/Psycity/workshops/index.md
-    - بوتکمپ وب : Events/Bootcamp.web.md
+        - EventsReport/1402-1403/Psycity/index.md
+        - EventsReport/1402-1403/Psycity/workshops/index.md
+  - رویداد ها:
+    - Events/index.md
+  - پروژه ها:
+    - Projects/index.md
+  - از دلِ ماجرا: 
+    - docs/index.md
     
 extra_css:
   - stylesheets/extra.css
