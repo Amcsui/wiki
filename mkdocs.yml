@@ -147,6 +147,7 @@ nav:
     - Projects/index.md
   - از دلِ ماجرا: 
     - docs/index.md
+    - docs/csrf.md
     
 extra_css:
   - stylesheets/extra.css
