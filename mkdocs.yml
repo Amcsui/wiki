@@ -145,6 +145,10 @@ nav:
     - Events/index.md
   - پروژه ها:
     - Projects/index.md
+    - Projects/wiki.md
+    - Projects/grito.md
+    - Projects/game.md
+    - Projects/website.md
   - از دلِ ماجرا: 
     - docs/index.md
     - docs/csrf.md
