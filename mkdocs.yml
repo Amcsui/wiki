@@ -103,7 +103,8 @@ nav:
     - EventsReport/discussionClub.md
     - EventsReport/codeClub.md
     - EventsReport/journalClub.md
-    - EventsReport/bootcamp.web.md
+    - EventsReport/bootcamp.web.back.md
+    - EventsReport/bootcamp.web.front.md
     - EventsReport/chessTournament.md
     - EventsReport/documents.md
     - EventsReport/filmfest.beautifulMind.md
