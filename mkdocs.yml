@@ -102,20 +102,20 @@ nav:
     - وست:
       - EventsReport/Vast/index.md
       - EventsReport/Vast/jobTask.md
+    - EventsReport/wiki.md
     - EventsReport/bookClub.md
     - EventsReport/discussionClub.md
     - EventsReport/codeClub.md
-    - EventsReport/journalClub.md
     - EventsReport//SenfiKomod.md
     - EventsReport/bootcamp.web.back.md
     - EventsReport/bootcamp.web.front.md
     - EventsReport/bootcamp.infrastructure.md
     - EventsReport/chessTournament.md
     - EventsReport/documents.md
-    - EventsReport/filmfest.beautifulMind.md
-    - EventsReport/filmfest.dangersKnowledge.md
-    - EventsReport/graphTheory.md
-    - EventsReport/harkat.md
+    - جشنواره داخلی حرکت:
+      - EventsReport/harkat/index.md
+      - EventsReport/harkat/gorfeh.md
+      - EventsReport/harkat/game.md
     - EventsReport/khayam.md
     - EventsReport/mathQuestions.md
     - EventsReport/mentorship.illustrator.md
@@ -123,7 +123,6 @@ nav:
     - EventsReport/newbies.fest.md
     - EventsReport/newbies.gartering.md
     - EventsReport/olympigames.1403.md
-    - EventsReport/pub.md # TODO: change
     - EventsReport/researchWeek.md
     - EventsReport/sciClub.db.md
     - EventsReport/sciClub.Gateway.md
