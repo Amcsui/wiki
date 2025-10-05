@@ -148,6 +148,8 @@ nav:
         - EventsReport/1402-1403/Psycity/workshops/index.md
   - رویداد ها:
     - Events/index.md
+    - Events/latex.md
+    - Events/integration.md
   - پروژه ها:
     - Projects/index.md
     - Projects/wiki.md
