@@ -1,5 +1,5 @@
 
-site_name: WIKI
+site_name: ریکاپدیا | RikaPedia 
 site_url: https://wiki.amcsui.ir
 plugins:
   - section-index
@@ -36,6 +36,128 @@ theme:
   features:
     - content.code.copy
     - content.code.annotate
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.path
+    - navigation.top
+    # - navigation.sections
+    - navigation.footer
+    - content.action.view
+
+nav:
+  - خانه:
+    - خانه: index.md
+    - درباره ما: about_us.md
+  - دانشکده: 
+    - دانشکده: Faculty/index.md
+    - اساتید: 
+      - Faculty/Professors/index.md
+      - Faculty/Professors/ab.varshovi.md
+      - Faculty/Professors/azam.md
+      - Faculty/Professors/bagherian.md
+      - Faculty/Professors/b.akhtari.md
+      - Faculty/Professors/d.mirzaei.md
+      - Faculty/Professors/f.abtahi.md
+      - Faculty/Professors/f.mansoori.md
+      - Faculty/Professors/h.khosravian.md
+      - Faculty/Professors/j.almasizadeh.md
+      - Faculty/Professors/m.alambardar.md
+      - Faculty/Professors/m.khatami.md
+      - Faculty/Professors/m.rafiee.md
+      - Faculty/Professors/najmeh.hoseini.md
+      - Faculty/Professors/n.esmaeeli.md
+      - Faculty/Professors/n.movahedian.md
+      - Faculty/Professors/r.sobhani.md
+      - Faculty/Professors/a.abdollahi.md
+      - Faculty/Professors/a.amini.md
+      - Faculty/Professors/a.parvardeh.md
+      - Faculty/Professors/asadollahi.md
+      - Faculty/Professors/e.zamanzade.md
+      - Faculty/Professors/f.khosravi.md
+      - Faculty/Professors/f.sajadi.md
+      - Faculty/Professors/fakhar.md
+      - Faculty/Professors/ft.farani.md
+      - Faculty/Professors/h-talebi.md
+      - Faculty/Professors/h.bidram.md
+      - Faculty/Professors/hr.salimi.md
+      - Faculty/Professors/ikazemi.md
+      - Faculty/Professors/iranpanah.md
+      - Faculty/Professors/m.asadi.md
+      - Faculty/Professors/m.maleki.md
+      - Faculty/Professors/m.mohammadi.md
+      - Faculty/Professors/m.tavangar.md
+      - Faculty/Professors/ma.yousofzadeh.md
+      - Faculty/Professors/nasr_a.md
+      - Faculty/Professors/pourya.md
+      - Faculty/Professors/s.ashrafi.md
+      - Faculty/Professors/sh.salarian.md
+      - Faculty/Professors/z.mansourvar.md
+      - Faculty/Professors/s.nobakht.md
+    - دروس: 
+      - Faculty/Courses/index.md      
+  - گزارش فعالیت‌ها: 
+    - EventsReport/index.md
+    - وست:
+      - EventsReport/Vast/index.md
+      - EventsReport/Vast/jobTask.md
+    - EventsReport/bookClub.md
+    - EventsReport/discussionClub.md
+    - EventsReport/codeClub.md
+    - EventsReport/journalClub.md
+    - EventsReport//SenfiKomod.md
+    - EventsReport/bootcamp.web.back.md
+    - EventsReport/bootcamp.web.front.md
+    - EventsReport/bootcamp.infrastructure.md
+    - EventsReport/chessTournament.md
+    - EventsReport/documents.md
+    - EventsReport/filmfest.beautifulMind.md
+    - EventsReport/filmfest.dangersKnowledge.md
+    - EventsReport/graphTheory.md
+    - EventsReport/harkat.md
+    - EventsReport/khayam.md
+    - EventsReport/mathQuestions.md
+    - EventsReport/mentorship.illustrator.md
+    - EventsReport/mentorship.python.md
+    - EventsReport/newbies.fest.md
+    - EventsReport/newbies.gartering.md
+    - EventsReport/olympigames.1403.md
+    - EventsReport/pub.md # TODO: change
+    - EventsReport/researchWeek.md
+    - EventsReport/sciClub.db.md
+    - EventsReport/sciClub.Gateway.md
+    - EventsReport/sciClub.storage.md
+    - EventsReport/studentsOnboarding.md
+    - EventsReport/womenInMath.md
+    - EventsReport/workshop.crypto.md
+    - EventsReport/workshop.deferential.md
+    - EventsReport/workshop.integration.md
+    - EventsReport/workshop.latex.md
+    - EventsReport/XPCON2024.md
+    - EventsReport/XPCON2025.md
+    - دوره قبلی: 
+      - EventsReport/1402-1403/index.md
+      - EventsReport/1402-1403/OlympiGames/index.md
+      - EventsReport/1402-1403/BookClub.md
+      - EventsReport/1402-1403/DiscussionClub.md
+      - EventsReport/1402-1403/workshop.github.md
+      - EventsReport/1402-1403/sciclub.linux.md
+      - EventsReport/1402-1403/XPCon/index.md
+      - سای‌سیتی:
+        - EventsReport/1402-1403/Psycity/index.md
+        - EventsReport/1402-1403/Psycity/workshops/index.md
+  - رویداد ها:
+    - Events/index.md
+  - پروژه ها:
+    - Projects/index.md
+    - Projects/wiki.md
+    - Projects/grito.md
+    - Projects/game.md
+    - Projects/website.md
+  - از دلِ ماجرا: 
+    - docs/index.md
+    - docs/csrf.md
     
 extra_css:
   - stylesheets/extra.css
