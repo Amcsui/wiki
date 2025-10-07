@@ -103,15 +103,16 @@ nav:
       - EventsReport/Vast/index.md
       - EventsReport/Vast/jobTask.md
     - EventsReport/wiki.md
+    - EventsReport//SenfiKomod.md
     - EventsReport/bookClub.md
     - EventsReport/discussionClub.md
     - EventsReport/codeClub.md
-    - EventsReport//SenfiKomod.md
     - EventsReport/bootcamp.web.back.md
     - EventsReport/bootcamp.web.front.md
     - EventsReport/bootcamp.infrastructure.md
     - EventsReport/chessTournament.md
     - EventsReport/documents.md
+    - EventsReport/searching_game.md
     - جشنواره داخلی حرکت:
       - EventsReport/harkat/index.md
       - EventsReport/harkat/gorfeh.md
