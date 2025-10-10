@@ -151,72 +151,36 @@
 ```json
 
 {
-
-    "latex-workshop.latex.outDir": "%DIR%/out",
-
-    "latex-workshop.latex.tools": [
-
-        {
-
-            "name": "xelatex",
-
-            "command": "latexmk",
-
-            "args": [
-
-                "-xelatex",
-
-                "-synctex=1",
-
-                "-interaction=nonstopmode",
-
-                "-file-line-error",
-
-                "-outdir=%OUTDIR%",
-
-                "%DOC%"
-
-            ],
-
-            "env": {}
-
-        },
-
-        {
-
-          "name": "copy",
-
-          "command": "copy",
-
-          "args": ["%OUTDIR%\\%DOCFILE%.pdf", "%DIR%"]
-
-        }
-
-    ],
-
-    "latex-workshop.latex.recipes": [
-
-        {
-
-            "name": "xelatex",
-
-            "tools": [
-
-                "xelatex",
-
-                "copy"
-
-            ]
-
-        }
-
-    ],
-
-    "latex-workshop.latex.autoBuild.run": "onFileChange",
-
-    "latex-workshop.latex.recipe.default": "xelatex"
-
-  }
+  "latex-workshop.latex.outDir": "%DIR%/out",
+  "latex-workshop.latex.tools": [
+    {
+      "name": "xelatex",
+      "command": "latexmk",
+      "args": [
+        "-xelatex",
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "-outdir=%OUTDIR%",
+        "%DOC%"
+      ],
+      "env": {}
+    },
+    {
+      "name": "copy",
+      "command": "copy",
+      "args": ["%OUTDIR%\\%DOCFILE%.pdf", "%DIR%"]
+    }
+  ],
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "xelatex",
+      "tools": ["xelatex", "copy"]
+    }
+  ],
+  "latex-workshop.latex.autoBuild.run": "onFileChange",
+  "latex-workshop.latex.recipe.default": "xelatex"
+}
 
 ```
 
@@ -225,72 +189,38 @@
 
 
 ```json
+{
+  "latex-workshop.latex.outDir": "%DIR%/out",
+  "latex-workshop.latex.tools": [
+    {
+      "name": "xelatex",
+      "command": "latexmk",
+      "args": [
+        "-xelatex",
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "-outdir=%OUTDIR%",
+        "%DOC%"
+      ],
+      "env": {}
+    },
+    {
+      "name": "copy",
+      "command": "cp",
+      "args": ["%OUTDIR%/%DOCFILE%.pdf", "%DIR%"]
+    }
+  ],
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "xelatex",
+      "tools": ["xelatex", "copy"]
+    }
+  ],
+  "latex-workshop.latex.autoBuild.run": "onFileChange",
+  "latex-workshop.latex.recipe.default": "xelatex"
+}
 
-    "latex-workshop.latex.outDir": "%DIR%/out",
-
-    "latex-workshop.latex.tools": [
-
-        {
-
-            "name": "xelatex",
-
-            "command": "latexmk",
-
-            "args": [
-
-                "-xelatex",
-
-                "-synctex=1",
-
-                "-interaction=nonstopmode",
-
-                "-file-line-error",
-
-                "-outdir=%OUTDIR%",
-
-                "%DOC%"
-
-            ],
-
-            "env": {}
-
-        },
-
-        {
-
-          "name": "copy",
-
-          "command": "cp",
-
-          "args": ["%OUTDIR%/%DOCFILE%.pdf", "%DIR%"]
-
-        }
-
-    ],
-
-    "latex-workshop.latex.recipes": [
-
-        {
-
-            "name": "xelatex",
-
-            "tools": [
-
-                "xelatex",
-
-                "copy"
-
-            ]
-
-        }
-
-    ],
-
-    "latex-workshop.latex.autoBuild.run": "onFileChange",
-
-    "latex-workshop.latex.recipe.default": "xelatex"
-
-  }
 
 ```
 
@@ -309,7 +239,7 @@
 
 \begin{center}
 
-Taylor's series
+  Taylor's series
 
 \end{center}
 
