@@ -162,6 +162,9 @@ nav:
     - docs/csrf.md
   - نشریه:
     - pub/index.md
+    - تاریخچه علم:
+      - pub/ScienceHistory/index.md
+      - pub/ScienceHistory/nash.md
 extra_css:
   - stylesheets/extra.css
 
