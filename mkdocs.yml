@@ -160,7 +160,17 @@ nav:
   - از دلِ ماجرا: 
     - docs/index.md
     - docs/csrf.md
-    
+  - نشریه:
+    - pub/index.md
+    - تاریخچه علم:
+      - pub/ScienceHistory/index.md
+      - pub/ScienceHistory/nash.md
+    - شمارات نشریه:
+      - pub/Release/index.md
+      - pub/Release/NO.1/index.md
+    - نقد و بررسی فیلم و کتاب:
+      - pub/books/index.md
+      - pub/books/BeautifulMath.md
 extra_css:
   - stylesheets/extra.css
 

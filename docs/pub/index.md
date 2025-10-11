@@ -1,10 +1,10 @@
 # نشریه دانشجویی علمی-صنفی رعد 
 
 
-*تحت امتیاز [انجمن علمی ریاضی و علوم‌کامپیوتر](https://zil.ink/amcsui) دانشگاه اصفهان*  
+*تحت امتیاز [انجمن علمی ریاضی و علوم‌کامپیوتر](https://amcsui.ir) دانشگاه اصفهان*  
 
 
-![rad journal](Raad-Poster.jpg)
+![rad journal](./statics/Raad-Poster.jpg)
 
 
 ## درباره‌ی ما
@@ -25,10 +25,10 @@
 ## شورای رعد
 
 
-![ra'd Council](rad-member-1.jpg)
+![ra'd Council](./statics/rad-member-1.jpg)
 
 
-![ra'd Council](rad-member-2.jpg)
+![ra'd Council](./statics/rad-member-2.jpg)
 
 
 👤 [**فرزانه سلیمی**](https://t.me/Farxami)
